@@ -3,16 +3,31 @@ import { Ride } from "../model/Ride";
 
 export class QueueApi {
   private static lastCall = Date.now();
-  private static lastResult?: Promise<Ride[]>;
+  private static ongoingRequest?: Promise<Ride[]>;
+  private static lastResult?: Ride[];
 
   public async getLatest() {
     const now = Date.now();
+
+    if (QueueApi.ongoingRequest) {
+      return QueueApi.ongoingRequest;
+    }
+
     if (QueueApi.lastResult && now - QueueApi.lastCall < 60000) {
       return QueueApi.lastResult;
     }
-    QueueApi.lastResult = this.getQueues();
+
+    QueueApi.ongoingRequest = this.getQueues()
+      .then((rides) => {
+        QueueApi.lastResult = rides;
+        return rides;
+      })
+      .finally(() => {
+        QueueApi.ongoingRequest = undefined;
+      });
+
     QueueApi.lastCall = now;
-    return QueueApi.lastResult;
+    return QueueApi.ongoingRequest;
   }
 
   private async getQueues() {

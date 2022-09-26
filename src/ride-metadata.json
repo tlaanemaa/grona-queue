@@ -1,0 +1,1191 @@
+{
+  "19": {
+    "__typename": "ContentfulRideBlock",
+    "contentful_id": "PjWbbyjswNDnROVGKCgBQ",
+    "id": "c37b5e70-e31a-5cfd-8b1e-23ddd11a6881",
+    "sortIndex": null,
+    "title": "Vilda Musen (Family Coaster)",
+    "rideId": 19,
+    "borderPattern": "orangeDots",
+    "componentTheme": null,
+    "couponCount": "2",
+    "couponText": "Ingår i Ticket to Ride",
+    "minimumHeight": "110 cm",
+    "minimumHeightInteger": 110,
+    "noHeightRequirement": null,
+    "ageRequirement": null,
+    "separateTickets": null,
+    "preamble": {
+      "preamble": "A crazy roller coaster."
+    },
+    "richTextDescription": null,
+    "shortDescriptionInList": null,
+    "imageInList": {
+      "file": {
+        "url": "//images.ctfassets.net/ds6dz7ilx8up/6U9ahMV1SGfmTz4kqcZoBb/c47c06ff39abc5f51ee5017a0c14814f/vilda-musen-listning.jpg"
+      }
+    },
+    "label": null,
+    "pageLink": {
+      "slug": "/en/rides/vilda-musen"
+    },
+    "tags": [
+      {
+        "title": "Fast"
+      },
+      {
+        "title": "For kids"
+      },
+      {
+        "title": "Roller coaster"
+      },
+      {
+        "title": "I am over 140 cm"
+      }
+    ],
+    "mapLink": null
+  },
+  "29": {
+    "__typename": "ContentfulRideBlock",
+    "contentful_id": "3NuvoC3yZSIaSQtvAXsaoc",
+    "id": "2c106747-ee38-519a-8cdc-6f6a4fab229f",
+    "sortIndex": null,
+    "title": "Kvasten (Suspended Family Coaster)",
+    "rideId": 29,
+    "borderPattern": "redJagged",
+    "componentTheme": "red",
+    "couponCount": "2",
+    "couponText": "Ingår i Ticket to Ride",
+    "minimumHeight": "110 cm",
+    "minimumHeightInteger": 110,
+    "noHeightRequirement": null,
+    "ageRequirement": null,
+    "separateTickets": null,
+    "preamble": {
+      "preamble": "A magical roller coaster where you're suspended under the rails with your legs dangling freely!"
+    },
+    "richTextDescription": null,
+    "shortDescriptionInList": null,
+    "imageInList": {
+      "file": {
+        "url": "//images.ctfassets.net/ds6dz7ilx8up/NbFSIAWGcBTvWFCp2wVnj/48ea03a42c56f157e426f660a44ca2b9/lista-kvasten-1000x1000.jpg"
+      }
+    },
+    "label": null,
+    "pageLink": {
+      "slug": "/en/rides/kvasten"
+    },
+    "tags": [
+      {
+        "title": "Fast"
+      },
+      {
+        "title": "For kids"
+      },
+      {
+        "title": "Roller coaster"
+      },
+      {
+        "title": "I am over 140 cm"
+      }
+    ],
+    "mapLink": null
+  },
+  "30": {
+    "__typename": "ContentfulRideBlock",
+    "contentful_id": "1kx37QsgSS2PFU7EeMplJm",
+    "id": "8bbb9e56-4fc6-56f1-bf09-2077c6544071",
+    "sortIndex": null,
+    "title": "Insane (Vertical Spinning Coaster)",
+    "rideId": 30,
+    "borderPattern": "purpleJagged",
+    "componentTheme": "purple",
+    "couponCount": "3",
+    "couponText": "Ingår i Ticket to Ride",
+    "minimumHeight": "140 cm",
+    "minimumHeightInteger": 140,
+    "noHeightRequirement": null,
+    "ageRequirement": null,
+    "separateTickets": null,
+    "preamble": {
+      "preamble": "A truly INSANE ride!"
+    },
+    "richTextDescription": null,
+    "shortDescriptionInList": null,
+    "imageInList": {
+      "file": {
+        "url": "//images.ctfassets.net/ds6dz7ilx8up/33TeYX87p3nVZsUZPeikCJ/28ee1f6907567daf480a75fdc33a5b69/insane-listning.jpg"
+      }
+    },
+    "label": null,
+    "pageLink": {
+      "slug": "/en/rides/insane"
+    },
+    "tags": [
+      {
+        "title": "Dizzy"
+      },
+      {
+        "title": "High"
+      },
+      {
+        "title": "Roller coaster"
+      },
+      {
+        "title": "I am over 140 cm"
+      }
+    ],
+    "mapLink": null
+  },
+  "33": {
+    "__typename": "ContentfulRideBlock",
+    "contentful_id": "6YuIA24HNw5M7BfoJuGcy1",
+    "id": "4c510fa2-10a1-51db-855e-bf09639b839c",
+    "sortIndex": null,
+    "title": "Kättingflygaren (The Wave Swinger)",
+    "rideId": 33,
+    "borderPattern": "orangeConfetti",
+    "componentTheme": null,
+    "couponCount": "2",
+    "couponText": "Ingår i Ticket to Ride",
+    "minimumHeight": "110 cm",
+    "minimumHeightInteger": 110,
+    "noHeightRequirement": null,
+    "ageRequirement": null,
+    "separateTickets": null,
+    "preamble": {
+      "preamble": "This classic giant swing let's you soar over the water."
+    },
+    "richTextDescription": null,
+    "shortDescriptionInList": null,
+    "imageInList": {
+      "file": {
+        "url": "//images.ctfassets.net/ds6dz7ilx8up/3sDnwUBfLmLm4OgTih1Zda/6176619cd4f9076452b9282f43ca31cb/kattingflygaren-listning.jpg"
+      }
+    },
+    "label": null,
+    "pageLink": {
+      "slug": "/en/rides/kattingflygaren"
+    },
+    "tags": [
+      {
+        "title": "Dizzy"
+      },
+      {
+        "title": "High"
+      },
+      {
+        "title": "For kids"
+      },
+      {
+        "title": "I am over 140 cm"
+      }
+    ],
+    "mapLink": null
+  },
+  "35": {
+    "__typename": "ContentfulRideBlock",
+    "contentful_id": "2ehwWP5Usws4KRJ8Zw2LEt",
+    "id": "f7d81ce9-6304-501d-a69d-476f527afff1",
+    "sortIndex": null,
+    "title": "Katapulten (Shot n' Drop Tower)",
+    "rideId": 35,
+    "borderPattern": "redDots",
+    "componentTheme": null,
+    "couponCount": "3",
+    "couponText": "Ingår i Ticket to Ride",
+    "minimumHeight": "140 cm",
+    "minimumHeightInteger": 140,
+    "noHeightRequirement": null,
+    "ageRequirement": null,
+    "separateTickets": null,
+    "preamble": {
+      "preamble": "Be thrown 55 meters into the air, turn suddenly and crash down towards the ground, and then up again!"
+    },
+    "richTextDescription": null,
+    "shortDescriptionInList": null,
+    "imageInList": {
+      "file": {
+        "url": "//images.ctfassets.net/ds6dz7ilx8up/7mxqpyaBK3c2q0YjVgCNHH/995c93f62d01876dac6d5034f18316a3/katapulten-listning.jpg"
+      }
+    },
+    "label": null,
+    "pageLink": {
+      "slug": null
+    },
+    "tags": [
+      {
+        "title": "High"
+      },
+      {
+        "title": "Fast"
+      },
+      {
+        "title": "I am over 140 cm"
+      }
+    ],
+    "mapLink": null
+  },
+  "36": {
+    "__typename": "ContentfulRideBlock",
+    "contentful_id": "6Rv8vFwbO85ueDyesJ9yiG",
+    "id": "6c7c70bf-4889-5fff-8110-9ea0ebb87b9f",
+    "sortIndex": null,
+    "title": "Lustiga Huset (Fun House)",
+    "rideId": 36,
+    "borderPattern": "lightBlueDots",
+    "componentTheme": "blue",
+    "couponCount": "2",
+    "couponText": "Ingår i Ticket to Ride",
+    "minimumHeight": null,
+    "minimumHeightInteger": null,
+    "noHeightRequirement": true,
+    "ageRequirement": null,
+    "separateTickets": null,
+    "preamble": {
+      "preamble": "Wild rooms, swinging bridges and flying carpets. A popular attraction for kids and adults alike! "
+    },
+    "richTextDescription": null,
+    "shortDescriptionInList": null,
+    "imageInList": {
+      "file": {
+        "url": "//images.ctfassets.net/ds6dz7ilx8up/42tNOS41bdhmLI4OBs5nYz/c6e9770f95f7148b80a9044bb8e7f189/lustiga-huset-listning.jpg"
+      }
+    },
+    "label": null,
+    "pageLink": {
+      "slug": "/en/rides/lustiga-huset"
+    },
+    "tags": [
+      {
+        "title": "I am over 140 cm"
+      }
+    ],
+    "mapLink": null
+  },
+  "37": {
+    "__typename": "ContentfulRideBlock",
+    "contentful_id": "6dZ2qJ1DL3tCoY88zqumE8",
+    "id": "4fe34bfa-dc40-5412-be75-3807405c98ae",
+    "sortIndex": null,
+    "title": "Kärlekstunneln (Tunnel of Love)",
+    "rideId": 37,
+    "borderPattern": "redConfetti",
+    "componentTheme": null,
+    "couponCount": "1",
+    "couponText": "Ingår i Ticket to Ride",
+    "minimumHeight": null,
+    "minimumHeightInteger": null,
+    "noHeightRequirement": true,
+    "ageRequirement": null,
+    "separateTickets": null,
+    "preamble": {
+      "preamble": "A fairy tale tour for the whole family."
+    },
+    "richTextDescription": null,
+    "shortDescriptionInList": null,
+    "imageInList": {
+      "file": {
+        "url": "//images.ctfassets.net/ds6dz7ilx8up/53UoP2JJV8h9qn3Qz653C9/4790d0c031fbc57ccb1ceb2f66b9bb1a/karlekstunneln-listning.jpg"
+      }
+    },
+    "label": null,
+    "pageLink": {
+      "slug": "/en/rides/karlekstunneln"
+    },
+    "tags": null,
+    "mapLink": null
+  },
+  "39": {
+    "__typename": "ContentfulRideBlock",
+    "contentful_id": "49U5oBOBGXPeNXRhR7ZMJO",
+    "id": "2cb42d61-9336-58f2-a620-cf18c1dcd08b",
+    "sortIndex": null,
+    "title": "Pop-Expressen (Intense Flatride)",
+    "rideId": 39,
+    "borderPattern": "purpleConfetti",
+    "componentTheme": null,
+    "couponCount": "2",
+    "couponText": "Ingår i Ticket to Ride",
+    "minimumHeight": "140 cm",
+    "minimumHeightInteger": 140,
+    "noHeightRequirement": null,
+    "ageRequirement": null,
+    "separateTickets": null,
+    "preamble": {
+      "preamble": "The dance floor is spinning and the music is on maximum volume. Let's do this!"
+    },
+    "richTextDescription": null,
+    "shortDescriptionInList": null,
+    "imageInList": {
+      "file": {
+        "url": "//images.ctfassets.net/ds6dz7ilx8up/48OHCFf4rNSjlE7AA3gBxj/c96e432ec01826c15b68b07020e95dca/pop-expressen-listning.jpg"
+      }
+    },
+    "label": null,
+    "pageLink": {
+      "slug": "/en/rides/pop-expressen"
+    },
+    "tags": [
+      {
+        "title": "Dizzy"
+      },
+      {
+        "title": "I am over 140 cm"
+      }
+    ],
+    "mapLink": null
+  },
+  "40": {
+    "__typename": "ContentfulRideBlock",
+    "contentful_id": "3QQ6AWYd5aMj3RUnCFAbVF",
+    "id": "c99b68e2-1f8a-5532-a5e9-24161ebb6508",
+    "sortIndex": null,
+    "title": "Barnradiobilarna (Kiddie Bumper Cars)",
+    "rideId": 40,
+    "borderPattern": "purpleConfetti",
+    "componentTheme": null,
+    "couponCount": "1",
+    "couponText": "Ingår i Ticket to Ride",
+    "minimumHeight": "100 cm",
+    "minimumHeightInteger": 100,
+    "noHeightRequirement": null,
+    "ageRequirement": null,
+    "separateTickets": null,
+    "preamble": {
+      "preamble": "A cool drive for the little ones. Full throttle!"
+    },
+    "richTextDescription": null,
+    "shortDescriptionInList": null,
+    "imageInList": {
+      "file": {
+        "url": "//images.ctfassets.net/ds6dz7ilx8up/Vtj0z4t92yDBumav8XCsp/afe18909b6d77218ae4b6bc084f96cd1/barnradiobilarna-listning.jpg"
+      }
+    },
+    "label": null,
+    "pageLink": {
+      "slug": "/en/rides/barnradiobilarna"
+    },
+    "tags": [
+      {
+        "title": "For kids"
+      }
+    ],
+    "mapLink": null
+  },
+  "41": {
+    "__typename": "ContentfulRideBlock",
+    "contentful_id": "5a8dSc4WcrHaHmFBw5FNmV",
+    "id": "bada97d6-015d-5657-963a-0dfe17889d5d",
+    "sortIndex": null,
+    "title": "Fritt Fall (Giant Drop) also with Tilt ",
+    "rideId": 41,
+    "borderPattern": "orangeStripes",
+    "componentTheme": "gold",
+    "couponCount": "3",
+    "couponText": "Ingår i Ticket to Ride",
+    "minimumHeight": "140 cm",
+    "minimumHeightInteger": 140,
+    "noHeightRequirement": null,
+    "ageRequirement": null,
+    "separateTickets": null,
+    "preamble": {
+      "preamble": "An adrenaline inducing ride from 80 meters altitude where you hurl towards the ground at 100 km/h!"
+    },
+    "richTextDescription": null,
+    "shortDescriptionInList": null,
+    "imageInList": {
+      "file": {
+        "url": "//images.ctfassets.net/ds6dz7ilx8up/cTBHLxuJ0ahdG2zcVoCER/990844c92983626a6d4696d5066366fc/fritt-fall-listning.jpg"
+      }
+    },
+    "label": null,
+    "pageLink": {
+      "slug": "/en/rides/fritt-fall"
+    },
+    "tags": [
+      {
+        "title": "High"
+      },
+      {
+        "title": "Fast"
+      },
+      {
+        "title": "I am over 140 cm"
+      }
+    ],
+    "mapLink": null
+  },
+  "42": {
+    "__typename": "ContentfulRideBlock",
+    "contentful_id": "1XIoopQO2oYCid9gMmARrv",
+    "id": "9ffeb3d2-3b3f-5f65-8da5-051396ecaac9",
+    "sortIndex": null,
+    "title": "Flygande Mattan (The Flying Carpet)",
+    "rideId": 42,
+    "borderPattern": "redJagged",
+    "componentTheme": null,
+    "couponCount": "2",
+    "couponText": "Ingår i Ticket to Ride",
+    "minimumHeight": "140 cm",
+    "minimumHeightInteger": 140,
+    "noHeightRequirement": null,
+    "ageRequirement": null,
+    "separateTickets": null,
+    "preamble": {
+      "preamble": "Fly away on our magical carpet and feel the ride deep in the stomach pit. "
+    },
+    "richTextDescription": null,
+    "shortDescriptionInList": null,
+    "imageInList": {
+      "file": {
+        "url": "//images.ctfassets.net/ds6dz7ilx8up/128fbE4lYAtsYHjdjPtwhr/bc638aa32794baecc831c2c37b3ca03d/listning-flygande-mattan-tillganglighet.jpg"
+      }
+    },
+    "label": null,
+    "pageLink": {
+      "slug": "/en/rides/flygande-mattan"
+    },
+    "tags": [
+      {
+        "title": "High"
+      },
+      {
+        "title": "I am over 140 cm"
+      }
+    ],
+    "mapLink": null
+  },
+  "43": {
+    "__typename": "ContentfulRideBlock",
+    "contentful_id": "3T7VOfeFWg31iWqUbKtZcJ",
+    "id": "27b31478-d99c-5ee6-b8ca-4c44e8ce492a",
+    "sortIndex": null,
+    "title": "Bläckfisken (Spinning Family Ride)",
+    "rideId": 43,
+    "borderPattern": "greenJagged",
+    "componentTheme": null,
+    "couponCount": "2",
+    "couponText": "Ingår i Ticket to Ride",
+    "minimumHeight": "110 cm",
+    "minimumHeightInteger": 110,
+    "noHeightRequirement": null,
+    "ageRequirement": null,
+    "separateTickets": null,
+    "preamble": {
+      "preamble": "Spin around!"
+    },
+    "richTextDescription": null,
+    "shortDescriptionInList": null,
+    "imageInList": {
+      "file": {
+        "url": "//images.ctfassets.net/ds6dz7ilx8up/6GOxB5qN2xTd5X1SjWYffx/545c686dbb96b1845d3688e6dfb1adc1/blackfisken-listning.jpg"
+      }
+    },
+    "label": null,
+    "pageLink": {
+      "slug": null
+    },
+    "tags": [
+      {
+        "title": "Dizzy"
+      },
+      {
+        "title": "I am over 140 cm"
+      }
+    ],
+    "mapLink": null
+  },
+  "44": {
+    "__typename": "ContentfulRideBlock",
+    "contentful_id": "vsHOdLjzrAC9K7TStezSG",
+    "id": "476415ae-5699-5ba8-9ce9-a55130676bcd",
+    "sortIndex": null,
+    "title": "Blå Tåget (Ghost Train)",
+    "rideId": 44,
+    "borderPattern": "blueJagged",
+    "componentTheme": null,
+    "couponCount": "2",
+    "couponText": "Ingår i Ticket to Ride",
+    "minimumHeight": null,
+    "minimumHeightInteger": null,
+    "noHeightRequirement": true,
+    "ageRequirement": null,
+    "separateTickets": null,
+    "preamble": {
+      "preamble": "A scary train ride among ghosts and dragons."
+    },
+    "richTextDescription": null,
+    "shortDescriptionInList": null,
+    "imageInList": {
+      "file": {
+        "url": "//images.ctfassets.net/ds6dz7ilx8up/2ksaHiGmjDcnXhSkZRYrlE/b92f9a96a2cb7c939d2afa922faa9188/bla-taget-listning.jpg"
+      }
+    },
+    "label": null,
+    "pageLink": {
+      "slug": "/en/rides/bla-taget"
+    },
+    "tags": [
+      {
+        "title": "Scary"
+      },
+      {
+        "title": "I am over 140 cm"
+      }
+    ],
+    "mapLink": null
+  },
+  "45": {
+    "__typename": "ContentfulRideBlock",
+    "contentful_id": "4ebhCziCXESh5Fvkph1qR",
+    "id": "f2d398ce-4c51-522d-9971-d319176cca5d",
+    "sortIndex": null,
+    "title": "Rock Jet (Music Express) ",
+    "rideId": 45,
+    "borderPattern": "darkGreenDots",
+    "componentTheme": null,
+    "couponCount": "2",
+    "couponText": "Ingår i Ticket to Ride",
+    "minimumHeight": null,
+    "minimumHeightInteger": null,
+    "noHeightRequirement": true,
+    "ageRequirement": null,
+    "separateTickets": null,
+    "preamble": {
+      "preamble": "A spinning classic that takes you on a rolling ride back and forth to thumping music."
+    },
+    "richTextDescription": null,
+    "shortDescriptionInList": null,
+    "imageInList": {
+      "file": {
+        "url": "//images.ctfassets.net/ds6dz7ilx8up/7kKqqSnWmOmvbN0njfAYXi/ca88417be56f8076c2274354c2944dd2/rockjet-listning.jpg"
+      }
+    },
+    "label": null,
+    "pageLink": {
+      "slug": "/en/rides/rock-jet"
+    },
+    "tags": [
+      {
+        "title": "Dizzy"
+      },
+      {
+        "title": "I am over 140 cm"
+      }
+    ],
+    "mapLink": null
+  },
+  "46": {
+    "__typename": "ContentfulRideBlock",
+    "contentful_id": "1EU0Ycud5lA36wyaVM3nHI",
+    "id": "b733d72d-7df6-5258-9c3e-92585660e2be",
+    "sortIndex": null,
+    "title": "Twister (Wooden Roller Coaster)",
+    "rideId": 46,
+    "borderPattern": "redStripes",
+    "componentTheme": "red",
+    "couponCount": "3",
+    "couponText": "Ingår i Ticket to Ride",
+    "minimumHeight": "120 cm",
+    "minimumHeightInteger": 120,
+    "noHeightRequirement": null,
+    "ageRequirement": null,
+    "separateTickets": null,
+    "preamble": {
+      "preamble": "A unique wooden roller coaster with a spectacular first drop!"
+    },
+    "richTextDescription": null,
+    "shortDescriptionInList": null,
+    "imageInList": {
+      "file": {
+        "url": "//images.ctfassets.net/ds6dz7ilx8up/2TtA34gjAfY8koeYtLtDN4/b05f1413c2da2bf4bd301d158995daed/twister-listning.jpg"
+      }
+    },
+    "label": "Closed",
+    "pageLink": {
+      "slug": "/en/rides/twister"
+    },
+    "tags": [
+      {
+        "title": "Fast"
+      },
+      {
+        "title": "Roller coaster"
+      },
+      {
+        "title": "I am over 140 cm"
+      }
+    ],
+    "mapLink": null
+  },
+  "47": {
+    "__typename": "ContentfulRideBlock",
+    "contentful_id": "1KELbaTduhRA7K39hs29GE",
+    "id": "e747e610-c505-5f41-8f26-cdb2c070fdea",
+    "sortIndex": 10,
+    "title": "Jetline (Roller Coaster)",
+    "rideId": 47,
+    "borderPattern": "lightBlueStripes",
+    "componentTheme": "blue",
+    "couponCount": "3",
+    "couponText": "Ingår i Ticket to Ride",
+    "minimumHeight": "140 cm",
+    "minimumHeightInteger": 140,
+    "noHeightRequirement": null,
+    "ageRequirement": null,
+    "separateTickets": null,
+    "preamble": {
+      "preamble": "Just over a million riders can't be wrong!"
+    },
+    "richTextDescription": null,
+    "shortDescriptionInList": null,
+    "imageInList": {
+      "file": {
+        "url": "//images.ctfassets.net/ds6dz7ilx8up/5k5lRydMpTfR39ev1n9uC7/9dfb6ed3cfa92d36fcc4729dac5667f5/jetline-listning.jpg"
+      }
+    },
+    "label": "Classic!",
+    "pageLink": {
+      "slug": "/en/rides/jetline"
+    },
+    "tags": [
+      {
+        "title": "Fast"
+      },
+      {
+        "title": "High"
+      },
+      {
+        "title": "Roller coaster"
+      },
+      {
+        "title": "I am over 140 cm"
+      }
+    ],
+    "mapLink": null
+  },
+  "48": {
+    "__typename": "ContentfulRideBlock",
+    "contentful_id": "LE34774AwGLrQTMcAB9Hx",
+    "id": "34c7addf-133a-52d5-8158-3e3b93a8381f",
+    "sortIndex": null,
+    "title": "Nyckelpigan (Kiddie Coaster)",
+    "rideId": 48,
+    "borderPattern": "redDots",
+    "componentTheme": null,
+    "couponCount": "1",
+    "couponText": "Ingår i Ticket to Ride",
+    "minimumHeight": null,
+    "minimumHeightInteger": null,
+    "noHeightRequirement": true,
+    "ageRequirement": null,
+    "separateTickets": null,
+    "preamble": {
+      "preamble": "A cool roller coaster for the younger amusement park visitors!"
+    },
+    "richTextDescription": null,
+    "shortDescriptionInList": null,
+    "imageInList": {
+      "file": {
+        "url": "//images.ctfassets.net/ds6dz7ilx8up/6SXE7b40203rBquqjzhudl/77735ef649530ee06e6e7c89ae3abb04/nyckelpigan-listning.jpg"
+      }
+    },
+    "label": null,
+    "pageLink": {
+      "slug": "/en/rides/nyckelpigan"
+    },
+    "tags": [
+      {
+        "title": "Fast"
+      },
+      {
+        "title": "Roller coaster"
+      }
+    ],
+    "mapLink": null
+  },
+  "49": {
+    "__typename": "ContentfulRideBlock",
+    "contentful_id": "7s7TFZ36pwDuvEPrwinItO",
+    "id": "3194340f-99e2-5800-943b-bc2ef3fdd54c",
+    "sortIndex": null,
+    "title": "House of Nightmares",
+    "rideId": 49,
+    "borderPattern": "darkBlueStripes",
+    "componentTheme": "gronan-live",
+    "couponCount": null,
+    "couponText": null,
+    "minimumHeight": null,
+    "minimumHeightInteger": null,
+    "noHeightRequirement": null,
+    "ageRequirement": "Rec. from 11 years",
+    "separateTickets": false,
+    "preamble": {
+      "preamble": "Do you dare step into Dr. Morphio’s House of Nightmares and face your worst nightmares?"
+    },
+    "richTextDescription": null,
+    "shortDescriptionInList": null,
+    "imageInList": {
+      "file": {
+        "url": "//images.ctfassets.net/ds6dz7ilx8up/4QTM3xHrbFWCaDsWFFJrKb/cec67fe9e76796f584aa1b0a6050b039/House_of_nightmares_FLV_1000.jpg"
+      }
+    },
+    "label": null,
+    "pageLink": {
+      "slug": "/en/rides/house-of-nightmares"
+    },
+    "tags": [
+      {
+        "title": "Scary"
+      },
+      {
+        "title": "I am over 140 cm"
+      }
+    ],
+    "mapLink": null
+  },
+  "50": {
+    "__typename": "ContentfulRideBlock",
+    "contentful_id": "6bqSmXznu26snR1Lz0AYBK",
+    "id": "f81c195f-535c-5677-b9ec-268756c53eda",
+    "sortIndex": null,
+    "title": "Flygande elefanterna (Flying Elephants)",
+    "rideId": 50,
+    "borderPattern": "pinkStripes",
+    "componentTheme": "pink",
+    "couponCount": "1",
+    "couponText": "Ingår i Ticket to Ride",
+    "minimumHeight": "100 cm",
+    "minimumHeightInteger": 100,
+    "noHeightRequirement": null,
+    "ageRequirement": null,
+    "separateTickets": null,
+    "preamble": {
+      "preamble": "Fly as high as you want!"
+    },
+    "richTextDescription": null,
+    "shortDescriptionInList": null,
+    "imageInList": {
+      "file": {
+        "url": "//images.ctfassets.net/ds6dz7ilx8up/7pMQxkzijHt0PHFMKHJ5oc/20d2e47e4722a4a9335e8311fa689bb4/flygander-elefanterna-listning.jpg"
+      }
+    },
+    "label": null,
+    "pageLink": {
+      "slug": "/en/rides/flygande-elefanterna"
+    },
+    "tags": [
+      {
+        "title": "I am over 140 cm"
+      }
+    ],
+    "mapLink": null
+  },
+  "51": {
+    "__typename": "ContentfulRideBlock",
+    "contentful_id": "50owrqkVhYTfAyUte5JP9f",
+    "id": "91a3c528-4873-5a82-86b2-f8125e90c102",
+    "sortIndex": null,
+    "title": "Eclipse (Giant Wave Swinger)",
+    "rideId": 51,
+    "borderPattern": "orangeJagged",
+    "componentTheme": null,
+    "couponCount": "3",
+    "couponText": "Ingår i Ticket to Ride",
+    "minimumHeight": "120 cm",
+    "minimumHeightInteger": 120,
+    "noHeightRequirement": null,
+    "ageRequirement": null,
+    "separateTickets": null,
+    "preamble": {
+      "preamble": "One of the world's highest StarFlyers, do you dare?"
+    },
+    "richTextDescription": null,
+    "shortDescriptionInList": null,
+    "imageInList": {
+      "file": {
+        "url": "//images.ctfassets.net/ds6dz7ilx8up/4N6aqWutRq2bQt1ePu3zWP/80f0ac4f6eb10ea1bc7617d0ee562be9/eclipse-listning.jpg"
+      }
+    },
+    "label": null,
+    "pageLink": {
+      "slug": "/en/rides/eclipse"
+    },
+    "tags": [
+      {
+        "title": "High"
+      },
+      {
+        "title": "Dizzy"
+      },
+      {
+        "title": "I am over 140 cm"
+      }
+    ],
+    "mapLink": null
+  },
+  "54": {
+    "__typename": "ContentfulRideBlock",
+    "contentful_id": "33AiFHmAE7Jh1aJBWPgHPg",
+    "id": "3e2ab3b9-ddd6-54bb-8316-c854387c6e59",
+    "sortIndex": null,
+    "title": "Tekopparna (Swirling Tea Cups)",
+    "rideId": 54,
+    "borderPattern": "redConfetti",
+    "componentTheme": null,
+    "couponCount": "1",
+    "couponText": "Ingår i Ticket to Ride",
+    "minimumHeight": null,
+    "minimumHeightInteger": null,
+    "noHeightRequirement": true,
+    "ageRequirement": null,
+    "separateTickets": null,
+    "preamble": {
+      "preamble": "Spin around and around in the magic world of teacups."
+    },
+    "richTextDescription": null,
+    "shortDescriptionInList": null,
+    "imageInList": {
+      "file": {
+        "url": "//images.ctfassets.net/ds6dz7ilx8up/3vTmJDEuvguH2RxPKOR1IT/9aa73a4b7a2d71872cabdecdd1867193/tekopparna-listning.jpg"
+      }
+    },
+    "label": null,
+    "pageLink": {
+      "slug": "/en/rides/tekopparna"
+    },
+    "tags": [
+      {
+        "title": "Dizzy"
+      },
+      {
+        "title": "I am over 140 cm"
+      }
+    ],
+    "mapLink": null
+  },
+  "55": {
+    "__typename": "ContentfulRideBlock",
+    "contentful_id": "6PRz14FIimMd9GDMDY6NYq",
+    "id": "4f734a18-6565-5e4e-a87c-fa68a5775bad",
+    "sortIndex": null,
+    "title": "Pettson och Findus Värld (Pettson and Findus' World)",
+    "rideId": 55,
+    "borderPattern": "redStripes",
+    "componentTheme": null,
+    "couponCount": "1",
+    "couponText": "Ingår i Ticket to Ride",
+    "minimumHeight": null,
+    "minimumHeightInteger": null,
+    "noHeightRequirement": true,
+    "ageRequirement": null,
+    "separateTickets": null,
+    "preamble": {
+      "preamble": "Welcome to Pettson and Findus' world, full of nooks and crannies to hide in, buttons to push, and things to discover."
+    },
+    "richTextDescription": null,
+    "shortDescriptionInList": null,
+    "imageInList": {
+      "file": {
+        "url": "//images.ctfassets.net/ds6dz7ilx8up/3tiEnhNcVBXv4VRI0qQV3H/d7bc8fe8ecf7ea91aae311f70d3108e4/pettson-listning.jpg"
+      }
+    },
+    "label": "Closed 2021",
+    "pageLink": {
+      "slug": "/en/rides/pettson-och-findus-varld"
+    },
+    "tags": [
+      {
+        "title": "I am over 140 cm"
+      }
+    ],
+    "mapLink": null
+  },
+  "56": {
+    "__typename": "ContentfulRideBlock",
+    "contentful_id": "2ILiijSOFDTYps1nhSqBva",
+    "id": "85438258-98c6-5f4d-9569-0b2d5e2d79ce",
+    "sortIndex": null,
+    "title": "Cirkuskarusellen (Old Carousel)",
+    "rideId": 56,
+    "borderPattern": "darkGreenDots",
+    "componentTheme": "dark-green",
+    "couponCount": "1",
+    "couponText": "Ingår i Ticket to Ride",
+    "minimumHeight": null,
+    "minimumHeightInteger": null,
+    "noHeightRequirement": true,
+    "ageRequirement": null,
+    "separateTickets": false,
+    "preamble": {
+      "preamble": "A 100 year old beloved amusement park classic. "
+    },
+    "richTextDescription": null,
+    "shortDescriptionInList": null,
+    "imageInList": {
+      "file": {
+        "url": "//images.ctfassets.net/ds6dz7ilx8up/5cJLeATgQ5BANGa3CHKMwv/33c5d6c59bf5e7e7b9f398705bddb54e/cirkuskarusellen-listning.jpg"
+      }
+    },
+    "label": null,
+    "pageLink": {
+      "slug": "/en/rides/cirkuskarusellen"
+    },
+    "tags": [
+      {
+        "title": "For kids"
+      },
+      {
+        "title": "I am over 140 cm"
+      }
+    ],
+    "mapLink": null
+  },
+  "57": {
+    "__typename": "ContentfulRideBlock",
+    "contentful_id": "1sIiaZciEJ0SRT5sCUwAVW",
+    "id": "d4410e9f-fe8d-52ae-910b-9f02f678d02d",
+    "sortIndex": null,
+    "title": "Tuff-Tuff Tåget (Kiddie Coaster) ",
+    "rideId": 57,
+    "borderPattern": "lightGreenDots",
+    "componentTheme": null,
+    "couponCount": "1",
+    "couponText": "Ingår i Ticket to Ride",
+    "minimumHeight": null,
+    "minimumHeightInteger": null,
+    "noHeightRequirement": true,
+    "ageRequirement": null,
+    "separateTickets": null,
+    "preamble": {
+      "preamble": "Our tiniest roller coaster for all small kiddies!"
+    },
+    "richTextDescription": null,
+    "shortDescriptionInList": null,
+    "imageInList": {
+      "file": {
+        "url": "//images.ctfassets.net/ds6dz7ilx8up/uvuLJDtTYx1Lbga71PRtH/d0093ad584a202e780b642d71c0756f5/tuff-tuff-listning.jpg"
+      }
+    },
+    "label": null,
+    "pageLink": {
+      "slug": "/en/rides/tuff-tuff-taget"
+    },
+    "tags": [
+      {
+        "title": "Roller coaster"
+      },
+      {
+        "title": "I am over 140 cm"
+      }
+    ],
+    "mapLink": null
+  },
+  "58": {
+    "__typename": "ContentfulRideBlock",
+    "contentful_id": "58dNkpyV3TAoUSWSYxhvmb",
+    "id": "e98727b6-3b4c-56e4-a210-1b02ccd9d293",
+    "sortIndex": null,
+    "title": "Veteranbilarna (Veteran Cars)",
+    "rideId": 58,
+    "borderPattern": "greenJagged",
+    "componentTheme": null,
+    "couponCount": "1",
+    "couponText": "Ingår i Ticket to Ride",
+    "minimumHeight": null,
+    "minimumHeightInteger": null,
+    "noHeightRequirement": true,
+    "ageRequirement": null,
+    "separateTickets": null,
+    "preamble": {
+      "preamble": "Beep-beep! No driver's license required to drive these cars.  "
+    },
+    "richTextDescription": null,
+    "shortDescriptionInList": null,
+    "imageInList": {
+      "file": {
+        "url": "//images.ctfassets.net/ds6dz7ilx8up/6uv0jUbpPTuz6TEzJEtZ64/397c65660d06a49fb80bbfaeefd064e5/veteranbilarna-listning.jpg"
+      }
+    },
+    "label": null,
+    "pageLink": {
+      "slug": "/en/rides/veteranbilarna"
+    },
+    "tags": [
+      {
+        "title": "I am over 140 cm"
+      },
+      {
+        "title": "For kids"
+      }
+    ],
+    "mapLink": null
+  },
+  "59": {
+    "__typename": "ContentfulRideBlock",
+    "contentful_id": "29oU65jTvhFUyFnj7ocMPa",
+    "id": "e418efc9-5d88-539a-993c-1bd44076c9f3",
+    "sortIndex": null,
+    "title": "Lyktan (Family Freefall Tower)",
+    "rideId": 59,
+    "borderPattern": "orangeConfetti",
+    "componentTheme": null,
+    "couponCount": "1",
+    "couponText": "Ingår i Ticket to Ride",
+    "minimumHeight": "100 cm",
+    "minimumHeightInteger": 100,
+    "noHeightRequirement": null,
+    "ageRequirement": null,
+    "separateTickets": null,
+    "preamble": {
+      "preamble": "Experience a free fall with plenty of spins from 12 meters. This ride is for both brave kids and adults. "
+    },
+    "richTextDescription": null,
+    "shortDescriptionInList": null,
+    "imageInList": {
+      "file": {
+        "url": "//images.ctfassets.net/ds6dz7ilx8up/2Z10TF0KWxhpXEm7Oj3TST/aed32cc8d4229050b3bd715dcbdf76df/lista-lyktan-1000x1000.jpg"
+      }
+    },
+    "label": null,
+    "pageLink": {
+      "slug": "/en/rides/lyktan"
+    },
+    "tags": [
+      {
+        "title": "For kids"
+      },
+      {
+        "title": "I am over 140 cm"
+      }
+    ],
+    "mapLink": null
+  },
+  "60": {
+    "__typename": "ContentfulRideBlock",
+    "contentful_id": "5KAsSwEPbYOwwPdRFX48tM",
+    "id": "b51b679c-889c-5927-8f06-fd34ea46e4e1",
+    "sortIndex": null,
+    "title": "Lilla Pariserhjulet (Little Ferris Wheel)",
+    "rideId": 60,
+    "borderPattern": "darkBlueDots",
+    "componentTheme": "blue",
+    "couponCount": "1",
+    "couponText": "Ingår i Ticket to Ride",
+    "minimumHeight": null,
+    "minimumHeightInteger": null,
+    "noHeightRequirement": true,
+    "ageRequirement": null,
+    "separateTickets": null,
+    "preamble": {
+      "preamble": "A classic Ferris wheel, only slightly smaller."
+    },
+    "richTextDescription": null,
+    "shortDescriptionInList": null,
+    "imageInList": {
+      "file": {
+        "url": "//images.ctfassets.net/ds6dz7ilx8up/yNlWjnlaT77IhmwOuVPok/93addb61317583763aa4853748fd0238/lilla-pariserhjulet-listning.jpg"
+      }
+    },
+    "label": "Closed 2021",
+    "pageLink": {
+      "slug": "/en/rides/lilla-pariserhjulet"
+    },
+    "tags": [
+      {
+        "title": "I am over 140 cm"
+      }
+    ],
+    "mapLink": null
+  },
+  "79": {
+    "__typename": "ContentfulRideBlock",
+    "contentful_id": "7nbKQYC85JpI4dymQin0ZX",
+    "id": "91869799-2a01-55a1-9490-d2bc87968ace",
+    "sortIndex": null,
+    "title": "Ikaros",
+    "rideId": 79,
+    "borderPattern": "orangeStripes",
+    "componentTheme": "gold",
+    "couponCount": "3",
+    "couponText": "Ingår i Ticket to Ride",
+    "minimumHeight": "140 cm",
+    "minimumHeightInteger": 140,
+    "noHeightRequirement": null,
+    "ageRequirement": null,
+    "separateTickets": null,
+    "preamble": {
+      "preamble": "Experience the worst fall in history! This ride is not for down to earth people."
+    },
+    "richTextDescription": null,
+    "shortDescriptionInList": null,
+    "imageInList": {
+      "file": {
+        "url": "//images.ctfassets.net/ds6dz7ilx8up/7piomNRk6RylLtlX2hwKba/cc57c1ae047d7b436f6d935d56ae0ef8/ikaros-listning.jpg"
+      }
+    },
+    "label": null,
+    "pageLink": {
+      "slug": "/en/rides/ikaros"
+    },
+    "tags": [
+      {
+        "title": "High"
+      },
+      {
+        "title": "Fast"
+      },
+      {
+        "title": "I am over 140 cm"
+      }
+    ],
+    "mapLink": null
+  },
+  "110": {
+    "__typename": "ContentfulRideBlock",
+    "contentful_id": "6ETisNiNuLZM5Rlz1PaD1W",
+    "id": "f47bf8a5-89e5-5c3d-8c44-1cac2742dd89",
+    "sortIndex": 1,
+    "title": "Monster",
+    "rideId": 110,
+    "borderPattern": "darkGreenStripes",
+    "componentTheme": null,
+    "couponCount": null,
+    "couponText": "Ingår i Ticket to Ride",
+    "minimumHeight": "140 cm",
+    "minimumHeightInteger": 140,
+    "noHeightRequirement": null,
+    "ageRequirement": null,
+    "separateTickets": null,
+    "preamble": {
+      "preamble": "One of Europe's coolest rollercoasters."
+    },
+    "richTextDescription": null,
+    "shortDescriptionInList": null,
+    "imageInList": {
+      "file": {
+        "url": "//images.ctfassets.net/ds6dz7ilx8up/3EZ1e2i88I4MYi2m9wR5eB/895c25012ab7e00f135190d5d9c5f1a2/monster-list.jpg"
+      }
+    },
+    "label": null,
+    "pageLink": {
+      "slug": "/en/rides/monster"
+    },
+    "tags": [
+      {
+        "title": "Dizzy"
+      },
+      {
+        "title": "Roller coaster"
+      },
+      {
+        "title": "I am over 140 cm"
+      },
+      {
+        "title": "High"
+      }
+    ],
+    "mapLink": null
+  }
+}

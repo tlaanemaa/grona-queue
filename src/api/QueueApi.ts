@@ -46,5 +46,3 @@ export class QueueApi {
       });
   }
 }
-
-export default new QueueApi();

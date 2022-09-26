@@ -2,7 +2,20 @@ import rideMetadata from "../ride-metadata.json";
 import { Ride } from "../model/Ride";
 
 export class QueueApi {
+  private static lastCall = Date.now();
+  private static lastResult?: Promise<Ride[]>;
+
   public async getLatest() {
+    const now = Date.now();
+    if (QueueApi.lastResult && now - QueueApi.lastCall < 60000) {
+      return QueueApi.lastResult;
+    }
+    QueueApi.lastResult = this.getQueues();
+    QueueApi.lastCall = now;
+    return QueueApi.lastResult;
+  }
+
+  private async getQueues() {
     const response = await fetch(
       "https://prs-cdp-prod-webapiproxy.azurewebsites.net/api/glt/QueueTimes/",
       {

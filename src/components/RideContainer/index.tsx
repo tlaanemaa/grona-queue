@@ -26,7 +26,7 @@ const RideContainer = ({ ride }: Props) => {
   return (
     <div className={styles.base} style={backgroundImg}>
       <div className={styles.overlay}>
-        <h1 className={styles.title}>{ride.metadata.title}</h1>
+        <div className={styles.title}>{ride.metadata.title}</div>
         <div className={styles.queueTime}>{currentWaitText}</div>
         <div className={styles.lastUpdated}>{lastUpdatedText}</div>
       </div>

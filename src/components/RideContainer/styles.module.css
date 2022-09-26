@@ -1,7 +1,37 @@
 .base {
+  position: relative;
   flex-grow: 1;
   height: 320px;
   width: 320px;
   background-position: center;
   background-size: cover;
+}
+
+.overlay {
+  position: absolute;
+  display: flex;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  padding: 10px;
+  background: rgba(0, 0, 0, 0.7);
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+
+.title {
+  color: rgba(255, 255, 255, 0.9);
+}
+
+.queueTime {
+  font-size: 20px;
+  margin-bottom: 100px;
+}
+
+.lastUpdated {
+  font-size: 13px;
+  color: rgba(255, 255, 255, 0.7);
 }

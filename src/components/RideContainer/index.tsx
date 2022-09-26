@@ -10,9 +10,26 @@ const RideContainer = ({ ride }: Props) => {
   const backgroundImg = {
     backgroundImage: `url(${ride.metadata.imageInList.file.url})`,
   };
+
+  const minutesTillLastUpdate = Math.round(
+    (Date.now() - ride.lastUpdated.getTime()) / (1000 * 60)
+  );
+
+  const currentWaitText = `Current wait time ${ride.queueText} min`;
+  const lastUpdatedText =
+    minutesTillLastUpdate === 0
+      ? "Last updated now"
+      : minutesTillLastUpdate === 1
+      ? `Last updated ${minutesTillLastUpdate} minute ago at ${ride.lastUpdated.toLocaleTimeString()}`
+      : `Last updated ${minutesTillLastUpdate} minutes ago at ${ride.lastUpdated.toLocaleTimeString()}`;
+
   return (
     <div className={styles.base} style={backgroundImg}>
-      {ride.metadata.title}
+      <div className={styles.overlay}>
+        <h1 className={styles.title}>{ride.metadata.title}</h1>
+        <div className={styles.queueTime}>{currentWaitText}</div>
+        <div className={styles.lastUpdated}>{lastUpdatedText}</div>
+      </div>
     </div>
   );
 };

@@ -1,0 +1,7 @@
+.base {
+  flex-grow: 1;
+  height: 320px;
+  width: 320px;
+  background-position: center;
+  background-size: cover;
+}

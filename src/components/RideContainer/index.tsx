@@ -4,15 +4,16 @@ import { Ride } from "../../model/Ride";
 
 type Props = {
   ride: Ride;
+  currentTimeMs: number;
 };
 
-const RideContainer = ({ ride }: Props) => {
+const RideContainer = ({ ride, currentTimeMs }: Props) => {
   const backgroundImg = {
     backgroundImage: `url(${ride.metadata.imageInList.file.url})`,
   };
 
   const minutesTillLastUpdate = Math.round(
-    (Date.now() - ride.lastUpdated.getTime()) / (1000 * 60)
+    (currentTimeMs - ride.lastUpdated.getTime()) / (1000 * 60)
   );
 
   const currentWaitText = `Current wait time ${ride.queueText} min`;

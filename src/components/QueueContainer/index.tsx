@@ -31,17 +31,19 @@ const QueueContainer = () => {
 
   return (
     <div className={styles.base}>
-      {!rides.length
-        ? "Loading..."
-        : rides.map((ride) => {
-            return (
-              <RideContainer
-                key={ride.id}
-                ride={ride}
-                currentTimeMs={timeMs}
-              ></RideContainer>
-            );
-          })}
+      {!rides.length ? (
+        <div className={styles.loading}>Loading...</div>
+      ) : (
+        rides.map((ride) => {
+          return (
+            <RideContainer
+              key={ride.id}
+              ride={ride}
+              currentTimeMs={timeMs}
+            ></RideContainer>
+          );
+        })
+      )}
       <button onClick={updateRides} className={styles.button}>
         Refresh
       </button>

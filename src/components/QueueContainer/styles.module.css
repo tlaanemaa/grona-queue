@@ -8,6 +8,10 @@
   margin-bottom: 70px;
 }
 
+.loading {
+  margin-top: 20px;
+}
+
 .button {
   position: fixed;
   bottom: 0px;

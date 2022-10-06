@@ -1,38 +1,32 @@
 .base {
-  position: relative;
+  display: flex;
   flex-grow: 1;
   height: 300px;
-  width: 370px;
+  width: 700px;
+  margin: 5px;
+  border-radius: 10px;
   background-position: center;
   background-size: cover;
-}
-
-@media (max-width: 1000px) {
-  .base {
-    height: 260px;
-    width: 300px;
-  }
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.5);
+  overflow: hidden;
 }
 
 .overlay {
-  position: absolute;
   display: flex;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
   padding: 10px;
-  background: rgba(0, 0, 0, 0.7);
+  background: rgba(0, 0, 0, 0.6);
   flex-direction: column;
   justify-content: space-between;
   align-items: flex-start;
   flex-wrap: nowrap;
+  flex-grow: 1;
 }
 
 .title {
   font-size: 36px;
-  color: rgba(255, 255, 255, 0.9);
+  color: rgba(255, 255, 255, 0.8);
   margin-top: 10px;
+  font-weight: 600;
 }
 
 .queueTime {

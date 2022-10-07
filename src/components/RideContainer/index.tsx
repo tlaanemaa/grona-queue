@@ -40,7 +40,10 @@ const RideContainer = ({ ride }: Props) => {
       ? `Last updated ${minutesSinceUpdate} minute ago at ${ride.lastUpdated.toLocaleTimeString()}`
       : `Last updated ${minutesSinceUpdate} minutes ago at ${ride.lastUpdated.toLocaleTimeString()}`;
 
-  const rideLink = `https://www.gronalund.com/${ride.metadata.pageLink.slug}`;
+  const rideLink = new URL(
+    ride.metadata.pageLink.slug ?? "",
+    "https://www.gronalund.com/"
+  ).href;
 
   return (
     <a

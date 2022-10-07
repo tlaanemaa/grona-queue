@@ -40,14 +40,22 @@ const RideContainer = ({ ride }: Props) => {
       ? `Last updated ${minutesSinceUpdate} minute ago at ${ride.lastUpdated.toLocaleTimeString()}`
       : `Last updated ${minutesSinceUpdate} minutes ago at ${ride.lastUpdated.toLocaleTimeString()}`;
 
+  const rideLink = `https://www.gronalund.com/${ride.metadata.pageLink.slug}`;
+
   return (
-    <div className={styles.base} style={backgroundImg}>
+    <a
+      className={styles.base}
+      style={backgroundImg}
+      href={rideLink}
+      target="_blank"
+      rel="noreferrer"
+    >
       <div className={styles.overlay}>
         <div className={styles.title}>{ride.metadata.title}</div>
         <div className={styles.queueTime}>{currentWaitText}</div>
         <div className={styles.lastUpdated}>{lastUpdatedText}</div>
       </div>
-    </div>
+    </a>
   );
 };
 
